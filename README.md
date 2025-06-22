@@ -37,7 +37,6 @@
 > A clean, interactive version of Tic Tac Toe with graphics and mouse input — built in C using SDL2.
 
 **Features:**
-- 🎮 2-Player mode with interactive UI  
 - 🖱 Mouse-based input using SDL2 events  
 - 🔁 Reset and win-detection system  
 - ✅ Built with basic graphics in C using SDL2
