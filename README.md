@@ -57,8 +57,8 @@
 
 ## 🔗 Portfolio Links
 
-- 🌐 Portfolio: [Your Website or GitHub Page](https://navye08.github.io/Portfolio/)
-- 📁 Projects: [All GitHub Repositories](https://github.com/Navye08?tab=repositories)
+- 🌐 Portfolio: [My website](https://navye08.github.io/Portfolio/)
+- 📁 Projects: [My GitHub Repositories](https://github.com/Navye08?tab=repositories)
 
 ---
 
